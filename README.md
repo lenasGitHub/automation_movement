@@ -1,12 +1,13 @@
-# Getting Started with Create React App
+# How To Run The App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `sudo git Clone https://github.com/lenasGitHub/automation_movement.git`
+[link](https://github.com/lenasGitHub/automation_movement.git).
 
-## Available Scripts
+### `cd automation_movement`
 
-In the project directory, you can run:
+### `sudo npm install`
 
-### `npm start`
+### `sudo npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
