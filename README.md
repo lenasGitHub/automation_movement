@@ -1,7 +1,6 @@
 # How To Run The App
 
 ### `sudo git Clone https://github.com/lenasGitHub/automation_movement.git`
-[link](https://github.com/lenasGitHub/automation_movement.git).
 
 ### `cd automation_movement`
 
